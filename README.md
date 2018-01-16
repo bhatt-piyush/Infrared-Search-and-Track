@@ -1,0 +1,3 @@
+Infrared small target detection is one of the key techniques in infrared search and track (IRST) systems. IRST (Infrared Search and Track) has been applied to many military or civil fields such as precise guidance, aerospace, forest early warning, remote sensing and so on, but the detection becomes difficult task because infrared targets have their own characteristics, such as target size variation. The performance of the whole IRST system depends on the accuracy of detection results.
+
+Improved the time complexity by 34.80% and probability of detection by 12.75% of ‘Infrared Patch Image’ model while keeping the False Alarm Rate still close to 1 false-alarm-per-image.
